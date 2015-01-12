@@ -1,0 +1,54 @@
+----------------------------------------------------------------------------------
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date:    22:12:10 11/09/2011 
+-- Design Name: 
+-- Module Name:    cal_toll - Behavioral 
+-- Project Name: 
+-- Target Devices: 
+-- Tool versions: 
+-- Description: 
+--
+-- Dependencies: 
+--
+-- Revision: 
+-- Revision 0.01 - File Created
+-- Additional Comments: 
+--
+----------------------------------------------------------------------------------
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+---- Uncomment the following library declaration if instantiating
+---- any Xilinx primitives in this code.
+--library UNISIM;
+--use UNISIM.VComponents.all;
+
+entity module is
+    Port ( vehicle : in  STD_LOGIC_VECTOR(1 downto 0);
+           toll : out  integer);
+end module;
+
+architecture Behavioral of module is
+signal a: integer;
+begin process(vehicle)
+
+begin
+
+case vehicle is
+when "00" =>
+  a<=50;
+when "01" =>
+  a<=100;
+when "10" =>
+  a<=150;
+when others =>
+  a<=0;
+end case;	 
+
+end process;
+toll<=conv_integer(a);
+end Behavioral;

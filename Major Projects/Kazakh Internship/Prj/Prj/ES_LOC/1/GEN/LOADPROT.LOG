@@ -1,0 +1,538 @@
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/11/12 13:50:02
+
+POOL_DB_DBE          (LOADED)
+VISU_GEN [FB1067]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+CFC(1).1 [DB63]      (OVERLOAD)
+OB35 [FC18]          (OVERLOAD)
+CFC(1) [FC55]        (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+OB1 [OB1]            (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (11.06.2012 13:49:48)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/11/12 13:53:43
+
+POOL_DB_DBE          (LOADED)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (11.06.2012 13:53:25)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/11/12 14:30:20
+
+DB62.D00000.2        (LOAD)
+POOL_DB_DBE          (LOADED)
+READY_STD [FB1060]   (LOAD)
+TEST.2 [DB64]        (LOAD)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (11.06.2012 14:30:00)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/11/12 15:17:13
+
+DB62.D00000.3        (LOAD)
+POOL_DB_DBE          (LOADED)
+TEST.3 [DB65]        (LOAD)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (11.06.2012 15:16:52)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/11/12 19:50:37
+
+POOL_DB_DBE          (LOADED)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (11.06.2012 19:50:49)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/11/12 19:51:10
+
+POOL_DB_DBE          (LOADED)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (11.06.2012 19:50:49)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 08:56:36
+
+DB62.D00000.4        (LOAD)
+POOL_DB_DBE          (LOADED)
+MOD_ERR [OB122]      (DELETE)
+PROG_ERR [OB121]     (DELETE)
+TEST.4 [DB66]        (LOAD)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+DB61                 (LOAD_MEMORY_ONLY)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 8:56:16)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 09:56:49
+
+DB62.D00000.5        (LOAD)
+POOL_DB_DBE          (LOADED)
+TEST.4 [DB67]        (LOAD)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+DB61                 (LOAD_MEMORY_ONLY)
+DB62.D00000.4        (DELETE)
+DB66                 (DELETE)
+ONLINE TS SET        (15.06.2012 9:56:29)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 10:24:14
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 10:24:51
+
+POOL_DB_DBE          (LOADED)
+FB1 [FB1]            (OVERLOAD)
+TIMER_P [FB5]        (OVERLOAD)
+FB945                (OVERLOAD)
+READY_STD [FB1060]   (OVERLOAD)
+VISU_GEN [FB1067]    (OVERLOAD)
+CUT_SHER [FB3333]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+TEST.1 [DB63]        (OVERLOAD)
+TEST.2 [DB64]        (OVERLOAD)
+TEST.3 [DB65]        (OVERLOAD)
+TEST.4 [DB67]        (OVERLOAD)
+TEST.5 [DB68]        (OVERLOAD)
+OB35 [FC18]          (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 10:24:35)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 10:27:02
+
+POOL_DB_DBE          (LOADED)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 10:26:45)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 10:31:28
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 10:55:34
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 11:51:42
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 11:53:23
+
+POOL_DB_DBE          (LOADED)
+FB1 [FB1]            (OVERLOAD)
+TIMER_P [FB5]        (OVERLOAD)
+FB945                (OVERLOAD)
+READY_STD [FB1060]   (OVERLOAD)
+VISU_GEN [FB1067]    (OVERLOAD)
+CUT_SHER [FB3333]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+TEST.1 [DB63]        (OVERLOAD)
+TEST.2 [DB64]        (OVERLOAD)
+TEST.3 [DB65]        (OVERLOAD)
+TEST.5 [DB66]        (OVERLOAD)
+TEST.4 [DB67]        (OVERLOAD)
+DB68                 (LOAD LOG.)
+OB35 [FC18]          (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 11:53:07)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 11:56:42
+
+DB62.D00000.4        (LOAD)
+DB62.D00000.7        (LOAD)
+POOL_DB_DBE          (LOADED)
+TEST.6 [DB68]        (LOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+TEST.5 [DB66]        (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.5 [DB66].SPID_HMD (OVERLOAD)
+TEST.5 [DB66].LOC_HMD_SHER (OVERLOAD)
+TEST.5 [DB66].REF_CUT_HEAD (OVERLOAD)
+TEST.5 [DB66].REF_CUT_TAIL (OVERLOAD)
+ONLINE TS SET        (15.06.2012 11:56:03)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 12:27:16
+
+DB62.D00001.0        (LOAD)
+DB62.D00001.1        (LOAD)
+DB62.D00001.2        (LOAD)
+DB62.D00001.3        (LOAD)
+DB62.D00001.4        (LOAD)
+DB62.D00001.5        (LOAD)
+POOL_DB_DBE          (LOADED)
+DB62                 (LOAD_MEMORY_ONLY)
+CUT_SHER [FB3333]    (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 12:27:02)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 12:28:21
+
+POOL_DB_DBE          (LOADED)
+TEST.6 [DB68]        (LOAD_MEMORY_ONLY)
+TEST.4 [DB67]        (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.4 [DB67].RESET  (OVERLOAD)
+TEST.6 [DB68].RESET  (OVERLOAD)
+ONLINE TS SET        (15.06.2012 12:28:05)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 12:29:57
+
+POOL_DB_DBE          (LOADED)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 12:29:40)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 12:31:13
+
+POOL_DB_DBE          (LOADED)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 12:30:57)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 12:40:33
+
+POOL_DB_DBE          (LOADED)
+FB1 [FB1]            (OVERLOAD)
+TIMER_P [FB5]        (OVERLOAD)
+FB945                (OVERLOAD)
+READY_STD [FB1060]   (OVERLOAD)
+VISU_GEN [FB1067]    (OVERLOAD)
+CUT_SHER [FB3333]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+TEST.1 [DB63]        (OVERLOAD)
+TEST.2 [DB64]        (OVERLOAD)
+TEST.3 [DB65]        (OVERLOAD)
+DB66                 (LOAD LOG.)
+TEST.4 [DB67]        (OVERLOAD)
+TEST.6 [DB68]        (OVERLOAD)
+TEST.5 [DB69]        (OVERLOAD)
+OB35 [FC18]          (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 12:40:16)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 13:52:44
+
+POOL_DB_DBE          (LOADED)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 13:52:29)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 13:56:55
+
+DB62.D00000.6        (LOAD)
+POOL_DB_DBE          (LOADED)
+TEST.10 [DB70]       (LOAD)
+LINK-IN              (NOW DONE)
+TEST.5 [DB69]        (LOAD_MEMORY_ONLY)
+DB62                 (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.5 [DB69].CUT    (LOAD LOG.)
+ONLINE TS SET        (15.06.2012 13:56:38)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 13:58:50
+
+DB62.D00001.7        (LOAD)
+DB62.D00002.0        (LOAD)
+DB62.D00002.1        (LOAD)
+POOL_DB_DBE          (LOADED)
+TEST.10 [DB70]       (LOAD_MEMORY_ONLY)
+DB62                 (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.10 [DB70].IN    (LOAD LOG.)
+TEST.10 [DB70].PT    (OVERLOAD)
+ONLINE TS SET        (15.06.2012 13:58:33)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 14:00:25
+
+POOL_DB_DBE          (LOADED)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 14:00:34)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 14:00:55
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 14:05:38
+
+POOL_DB_DBE          (LOADED)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 14:05:53)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:33:45
+
+DB62.D00002.2        (LOAD)
+POOL_DB_DBE          (LOADED)
+FB2                  (LOAD)
+TEST.3 [DB66]        (LOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+DB62.D00000.3        (DELETE)
+DB65                 (DELETE)
+ONLINE TS SET        (15.06.2012 17:33:25)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:38:09
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:38:37
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:40:02
+
+POOL_DB_DBE          (LOADED)
+FB1 [FB1]            (OVERLOAD)
+FB2                  (OVERLOAD)
+TIMER_P [FB5]        (OVERLOAD)
+regulator [FB321]    (OVERLOAD)
+FB945                (OVERLOAD)
+READY_STD [FB1060]   (OVERLOAD)
+VISU_GEN [FB1067]    (OVERLOAD)
+FB1482               (OVERLOAD)
+N_TOF [FB1483]       (OVERLOAD)
+CUT_SHER [FB3333]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+TEST.1 [DB63]        (OVERLOAD)
+TEST.2 [DB64]        (OVERLOAD)
+TEST.3 [DB65]        (OVERLOAD)
+DB66                 (LOAD LOG.)
+TEST.4 [DB67]        (OVERLOAD)
+TEST.6 [DB68]        (OVERLOAD)
+TEST.5 [DB69]        (OVERLOAD)
+TEST.10 [DB70]       (OVERLOAD)
+OB35 [FC18]          (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 17:39:45)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:45:06
+
+POOL_DB_DBE          (LOADED)
+FB1 [FB1]            (OVERLOAD)
+FB2                  (OVERLOAD)
+TIMER_P [FB5]        (OVERLOAD)
+regulator [FB321]    (OVERLOAD)
+FB945                (OVERLOAD)
+READY_STD [FB1060]   (OVERLOAD)
+VISU_GEN [FB1067]    (OVERLOAD)
+FB1482               (OVERLOAD)
+N_TOF [FB1483]       (OVERLOAD)
+CUT_SHER [FB3333]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+TEST.1 [DB63]        (OVERLOAD)
+TEST.2 [DB64]        (OVERLOAD)
+DB65                 (LOAD LOG.)
+TEST.3 [DB66]        (OVERLOAD)
+TEST.4 [DB67]        (OVERLOAD)
+TEST.6 [DB68]        (OVERLOAD)
+TEST.5 [DB69]        (OVERLOAD)
+TEST.10 [DB70]       (OVERLOAD)
+OB35 [FC18]          (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 17:44:48)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:46:40
+
+POOL_DB_DBE          (LOADED)
+TEST.3 [DB66]        (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.3 [DB66].HW_PULS (OVERLOAD)
+ONLINE TS SET        (15.06.2012 17:46:22)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:48:57
+
+POOL_DB_DBE          (LOADED)
+TEST.3 [DB66]        (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.3 [DB66].HW_PULS (LOAD LOG.)
+ONLINE TS SET        (15.06.2012 17:48:38)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:50:26
+
+POOL_DB_DBE          (LOADED)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 17:50:10)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 17:52:21
+
+POOL_DB_DBE          (LOADED)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (15.06.2012 17:52:31)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 18:05:49
+
+POOL_DB_DBE          (LOADED)
+FB1 [FB1]            (OVERLOAD)
+FB2                  (OVERLOAD)
+TIMER_P [FB5]        (OVERLOAD)
+regulator [FB321]    (OVERLOAD)
+FB945                (OVERLOAD)
+READY_STD [FB1060]   (OVERLOAD)
+VISU_GEN [FB1067]    (OVERLOAD)
+FB1482               (OVERLOAD)
+N_TOF [FB1483]       (OVERLOAD)
+CUT_SHER [FB3333]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+TEST.1 [DB63]        (OVERLOAD)
+TEST.2 [DB64]        (OVERLOAD)
+TEST.3 [DB65]        (OVERLOAD)
+DB66                 (LOAD LOG.)
+TEST.4 [DB67]        (OVERLOAD)
+TEST.6 [DB68]        (OVERLOAD)
+TEST.5 [DB69]        (OVERLOAD)
+TEST.10 [DB70]       (OVERLOAD)
+OB35 [FC18]          (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 18:06:04)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 18:29:27
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 18:30:53
+
+POOL_DB_DBE          (LOADED)
+FB1 [FB1]            (OVERLOAD)
+FB2                  (OVERLOAD)
+TIMER_P [FB5]        (OVERLOAD)
+regulator [FB321]    (OVERLOAD)
+FB945                (OVERLOAD)
+READY_STD [FB1060]   (OVERLOAD)
+VISU_GEN [FB1067]    (OVERLOAD)
+FB1482               (OVERLOAD)
+N_TOF [FB1483]       (OVERLOAD)
+CUT_SHER [FB3333]    (OVERLOAD)
+DB61                 (OVERLOAD)
+DB62                 (OVERLOAD)
+TEST.1 [DB63]        (OVERLOAD)
+TEST.2 [DB64]        (OVERLOAD)
+DB65                 (LOAD LOG.)
+TEST.3 [DB66]        (OVERLOAD)
+TEST.4 [DB67]        (OVERLOAD)
+TEST.6 [DB68]        (OVERLOAD)
+TEST.5 [DB69]        (OVERLOAD)
+TEST.10 [DB70]       (OVERLOAD)
+OB35 [FC18]          (OVERLOAD)
+TEST [FC55]          (OVERLOAD)
+OB35 [OB35]          (OVERLOAD)
+CYCL_EXC [OB1]       (OVERLOAD)
+LINK-IN              (NOW DONE)
+ONLINE TS SET        (15.06.2012 18:31:12)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 18:33:51
+
+POOL_DB_DBE          (LOADED)
+TEST.3 [DB66]        (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.3 [DB66].HW_PULS (LOAD LOG.)
+ONLINE TS SET        (15.06.2012 18:34:03)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/15/12 18:34:48
+
+POOL_DB_DBE          (LOADED)
+TEST.3 [DB66]        (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.3 [DB66].HW_PULS (LOAD LOG.)
+ONLINE TS SET        (15.06.2012 18:34:59)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/18/12 15:12:41
+
+DB62.D00002.3        (LOAD)
+POOL_DB_DBE          (LOADED)
+FB52                 (LOAD)
+N_PID [FB55]         (LOAD)
+FB982                (LOAD)
+N_AnMeas [FB1435]    (LOAD)
+FB1467               (LOAD)
+FC402                (LOAD)
+FC430                (LOAD)
+TEST.UW40_BQ01 [DB72] (LOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+ONLINE TS SET        (18.06.2012 15:12:17)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/18/12 15:15:19
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/18/12 15:16:27
+
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/18/12 15:17:20
+
+DB62.D00000.3        (LOAD)
+POOL_DB_DBE          (LOADED)
+FB1                  (OVERLOAD)
+TEST.12 [DB65]       (LOAD)
+LINK-IN              (NOW DONE)
+DB62                 (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+FB2                  (DELETE)
+ONLINE TS SET        (18.06.2012 15:17:33)
+
+ ***** Protocol Of Loading <Mangal\SIMATIC 400\CPU 416-2 DP\S7 Program(1)\Charts> on 06/18/12 15:35:03
+
+POOL_DB_DBE          (LOADED)
+TEST.12 [DB65]       (LOAD_MEMORY_ONLY)
+TEST [FC55]          (OVERLOAD)
+LINK-IN              (NOW DONE)
+DB61                 (LOAD_MEMORY_ONLY)
+TEST.12 [DB65].PV    (LOAD LOG.)
+ONLINE TS SET        (18.06.2012 15:35:11)
